@@ -11,7 +11,7 @@
 
 ### `> whoami`
 
-**pLim** — Entusiasta de Criptografia & Segurança Digital
+**pLim** — Cryptography & Digital Security Enthusiast
 
 </div>
 
@@ -39,7 +39,7 @@ class plim:
 
 <div align="center">
 
-`🔐` **Criptografia é tudo** &nbsp;|&nbsp; `🛡️` **Privacidade sempre** &nbsp;|&nbsp; `🔒` **Segurança primeiro**
+`🔐` **Encryption is everything** &nbsp;|&nbsp; `🛡️` **Privacy always** &nbsp;|&nbsp; `🔒` **Security first**
 
 </div>
 
@@ -48,16 +48,16 @@ class plim:
 <br>
 
 <details>
-<summary><b>⚡ Princípios</b></summary>
+<summary><b>⚡ Principles</b></summary>
 <br>
 
 ```
 ┌─────────────────────────────────────────────────┐
 │                                                 │
-│   • Criptografia end-to-end sempre              │
-│   • Zero-knowledge quando possível              │
+│   • End-to-end encryption always                │
+│   • Zero-knowledge when possible                │
 │   • Open-source > closed-source                 │
-│   • Privacidade é um direito, não privilégio    │
+│   • Privacy is a right, not a privilege         │
 │                                                 │
 └─────────────────────────────────────────────────┘
 ```
@@ -65,14 +65,14 @@ class plim:
 </details>
 
 <details>
-<summary><b>🔧 Interesses</b></summary>
+<summary><b>🔧 Interests</b></summary>
 <br>
 
-| Área | Foco |
+| Area | Focus |
 |:-----|:-----|
-| `Criptografia` | Algoritmos, protocolos, implementações |
-| `Privacidade` | Anonimato, proteção de dados |
-| `Segurança` | Infosec, hardening, auditorias |
+| `Cryptography` | Algorithms, protocols, implementations |
+| `Privacy` | Anonymity, data protection |
+| `Security` | Infosec, hardening, audits |
 | `OPSEC` | Operational Security |
 
 </details>
