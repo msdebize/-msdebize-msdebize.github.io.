@@ -11,7 +11,7 @@
 
 ### `> whoami`
 
-**pLim** — Entusiasta de Criptografia & Segurança Digital
+**pLim** — Cryptography & Digital Security Enthusiast
 
 </div>
 
