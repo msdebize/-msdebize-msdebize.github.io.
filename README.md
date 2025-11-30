@@ -54,10 +54,10 @@ class Msdebize:
 ```
 ┌─────────────────────────────────────────────────┐
 │                                                 │
-│   • Criptografia end-to-end sempre             │
-│   • Zero-knowledge quando possível             │
-│   • Open-source > closed-source                │
-│   • Privacidade é um direito, não privilégio   │
+│   • Criptografia end-to-end sempre              │
+│   • Zero-knowledge quando possível              │
+│   • Open-source > closed-source                 │
+│   • Privacidade é um direito, não privilégio    │
 │                                                 │
 └─────────────────────────────────────────────────┘
 ```
