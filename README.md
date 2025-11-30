@@ -11,7 +11,7 @@
 
 ### `> whoami`
 
-**pLim** — Entusiasta de Criptografia & Segurança Digital
+**pLim** — AI First | Cryptography & Digital Security Enthusiast
 
 </div>
 
@@ -22,11 +22,12 @@
 ```python
 class plim:
     def __init__(self):
-        self.focus = ["Cryptography", "Privacy", "Security"]
+        self.focus = ["AI First", "Cryptography", "Privacy", "Security"]
         self.motto = "Privacy is not optional"
 
     def philosophy(self):
         return {
+            "ai": "First",
             "encryption": "Everything",
             "privacy": "Always",
             "trust": "Verify, don't trust"
@@ -39,7 +40,7 @@ class plim:
 
 <div align="center">
 
-`🔐` **Criptografia é tudo** &nbsp;|&nbsp; `🛡️` **Privacidade sempre** &nbsp;|&nbsp; `🔒` **Segurança primeiro**
+`🤖` **AI First** &nbsp;|&nbsp; `🔐` **Encryption is everything** &nbsp;|&nbsp; `🛡️` **Privacy always** &nbsp;|&nbsp; `🔒` **Security first**
 
 </div>
 
@@ -48,16 +49,16 @@ class plim:
 <br>
 
 <details>
-<summary><b>⚡ Princípios</b></summary>
+<summary><b>⚡ Principles</b></summary>
 <br>
 
 ```
 ┌─────────────────────────────────────────────────┐
 │                                                 │
-│   • Criptografia end-to-end sempre              │
-│   • Zero-knowledge quando possível              │
+│   • End-to-end encryption always                │
+│   • Zero-knowledge when possible                │
 │   • Open-source > closed-source                 │
-│   • Privacidade é um direito, não privilégio    │
+│   • Privacy is a right, not a privilege         │
 │                                                 │
 └─────────────────────────────────────────────────┘
 ```
@@ -65,14 +66,15 @@ class plim:
 </details>
 
 <details>
-<summary><b>🔧 Interesses</b></summary>
+<summary><b>🔧 Interests</b></summary>
 <br>
 
-| Área | Foco |
+| Area | Focus |
 |:-----|:-----|
-| `Criptografia` | Algoritmos, protocolos, implementações |
-| `Privacidade` | Anonimato, proteção de dados |
-| `Segurança` | Infosec, hardening, auditorias |
+| `AI First` | LLMs, automation, intelligent systems |
+| `Cryptography` | Algorithms, protocols, implementations |
+| `Privacy` | Anonymity, data protection |
+| `Security` | Infosec, hardening, audits |
 | `OPSEC` | Operational Security |
 
 </details>
@@ -93,6 +95,6 @@ class plim:
 
 <br>
 
-**PGP** · **Tor** · **E2EE** · **FOSS**
+**AI** · **PGP** · **Tor** · **E2EE** · **FOSS**
 
 </div>
