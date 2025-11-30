@@ -11,7 +11,7 @@
 
 ### `> whoami`
 
-**pLim** — Cryptography & Digital Security Enthusiast
+**pLim** — AI First | Cryptography & Digital Security Enthusiast
 
 </div>
 
@@ -22,11 +22,12 @@
 ```python
 class plim:
     def __init__(self):
-        self.focus = ["Cryptography", "Privacy", "Security"]
+        self.focus = ["AI First", "Cryptography", "Privacy", "Security"]
         self.motto = "Privacy is not optional"
 
     def philosophy(self):
         return {
+            "ai": "First",
             "encryption": "Everything",
             "privacy": "Always",
             "trust": "Verify, don't trust"
@@ -39,7 +40,7 @@ class plim:
 
 <div align="center">
 
-`🔐` **Encryption is everything** &nbsp;|&nbsp; `🛡️` **Privacy always** &nbsp;|&nbsp; `🔒` **Security first**
+`🤖` **AI First** &nbsp;|&nbsp; `🔐` **Encryption is everything** &nbsp;|&nbsp; `🛡️` **Privacy always** &nbsp;|&nbsp; `🔒` **Security first**
 
 </div>
 
@@ -70,6 +71,7 @@ class plim:
 
 | Area | Focus |
 |:-----|:-----|
+| `AI First` | LLMs, automation, intelligent systems |
 | `Cryptography` | Algorithms, protocols, implementations |
 | `Privacy` | Anonymity, data protection |
 | `Security` | Infosec, hardening, audits |
@@ -93,6 +95,6 @@ class plim:
 
 <br>
 
-**PGP** · **Tor** · **E2EE** · **FOSS**
+**AI** · **PGP** · **Tor** · **E2EE** · **FOSS**
 
 </div>
