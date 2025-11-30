@@ -11,7 +11,7 @@
 
 ### `> whoami`
 
-**msdebize** — Entusiasta de Criptografia & Segurança Digital
+**pLim** — Entusiasta de Criptografia & Segurança Digital
 
 </div>
 
@@ -20,7 +20,7 @@
 <br>
 
 ```python
-class Msdebize:
+class plim:
     def __init__(self):
         self.focus = ["Cryptography", "Privacy", "Security"]
         self.motto = "Privacy is not optional"
