@@ -11,7 +11,7 @@
 
 ### `> whoami`
 
-**pLim** — AI First | Cryptography & Digital Security Enthusiast
+—> AI First |->Cryptography & Digital Security Enthusiast
 
 </div>
 
@@ -30,7 +30,8 @@ class plim:
             "ai": "First",
             "encryption": "Everything",
             "privacy": "Always",
-            "trust": "Verify, don't trust"
+            "trust": "Verify, don't trust",
+            "inteligence" : "No AI, no I"
         }
 ```
 
