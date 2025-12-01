@@ -31,7 +31,7 @@ class plim:
             "encryption": "Everything",
             "privacy": "Always",
             "trust": "Verify, don't trust",
-            "inteligence" : "No AI, no I"
+            "intelligence" : "No AI, no I"
         }
 ```
 
